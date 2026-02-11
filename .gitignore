@@ -1,0 +1,31 @@
+############################
+# Python / Flask project
+############################
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Local config / secrets
+settings.json
+.env
+.env.*
+
+# Generated files
+novel_scene*.txt
+
