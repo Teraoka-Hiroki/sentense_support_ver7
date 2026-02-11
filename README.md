@@ -18,7 +18,7 @@ Flask と Gemini API、Fixstars Amplify を用いた **小説執筆支援アプ�
 1. このフォルダに移動
 
    ```powershell
-   cd "C:\Users\goodh\Documents\Qquest2025\setensesport7"
+   cd "C:\Users\........"
    ```
 
 2. 仮想環境（任意だが推奨）
@@ -34,18 +34,16 @@ Flask と Gemini API、Fixstars Amplify を用いた **小説執筆支援アプ�
    pip install -r requirements.txt
    ```
 
-4. `settings.json` に API キーを保存  
+4. API key 
    - `gemini_key` に Gemini API Key  
    - `amplify_token` に Fixstars Amplify Token  
-
-   ※ `settings.json` は `.gitignore` に登録済みで、GitHub にはアップロードされません。
 
 ---
 
 ### アプリの起動方法
 
 ```powershell
-cd "C:\Users\goodh\Documents\Qquest2025\setensesport7"
+cd "C:\Users\....."
 python app.py
 ```
 
@@ -57,5 +55,5 @@ python app.py
 
 ### ライセンス
 
-（必要に応じて追記してください）
+MIT
 
